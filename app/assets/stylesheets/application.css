@@ -72,3 +72,29 @@ label {
 .button {
   padding: 1px 6px;
 }
+
+.error-explanation {
+  width: 450px;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  border: 2px solid red;
+  font-size: 12px;
+  background-color: #f0f0f0;
+}
+
+.error-explanation h2 {
+  margin: -7px;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  background-color: #c00;
+  color: #fff;
+}
+
+.error-explanation ul {
+   margin: 33px;
+   padding-left: 40px;
+   font-size: 13px;
+   line-height: 18px;
+}
+
